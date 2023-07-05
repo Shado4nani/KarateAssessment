@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf5c3f46-3d08-442e-a5cd-bcb4252117b2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/csv-editor.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/karate-config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/logback-test.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/absa/verify/EmployeeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/absa/verify/employee/Employee.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/absa/verify/employee/EmployeeDataDriven.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/absa/verify/employee/EmployeesRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/absa/verify/employee/request.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/absa/verify/employee/testData.csv" afterDir="false" />
-    </list>
+    <list default="true" id="cf5c3f46-3d08-442e-a5cd-bcb4252117b2" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
