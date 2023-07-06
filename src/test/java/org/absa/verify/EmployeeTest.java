@@ -9,7 +9,7 @@ class EmployeeTest {
 
     @Test
     void testParallel() {
-        Results results = Runner.path("classpath:org.absa.verify.employee.Employee.feature")
+        Results results = Runner.path("classpath:org/absa/verify/employee/Employee.feature").tags("@functional")
                 //.outputCucumberJson(true)
                 .parallel(5);
         assertEquals(0, results.getFailCount(), results.getErrorMessages());

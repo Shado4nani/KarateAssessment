@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf5c3f46-3d08-442e-a5cd-bcb4252117b2" name="Changes" comment="" />
+    <list default="true" id="cf5c3f46-3d08-442e-a5cd-bcb4252117b2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/absa/verify/EmployeeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/absa/verify/EmployeeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/absa/verify/employee/Employee.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/absa/verify/employee/Employee.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/absa/verify/employee/EmployeeDataDriven.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/absa/verify/employee/EmployeesRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/absa/verify/employee/EmployeesRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/absa/verify/employee/testData.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/absa/verify/employee/testData.csv" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,7 +47,7 @@
       <recent name="$PROJECT_DIR$/src/test/java/org/absa/verify/employee" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.EmployeesRunner">
+  <component name="RunManager" selected="JUnit.EmployeeTest">
     <configuration name="EmployeeTest" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
       <module name="karateAPITesting" />
       <extension name="coverage">
@@ -52,6 +60,22 @@
       <option name="MAIN_CLASS_NAME" value="org.absa.verify.EmployeeTest" />
       <option name="METHOD_NAME" value="" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeTest.testParallel" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="karateAPITesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.absa.verify.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.absa.verify" />
+      <option name="MAIN_CLASS_NAME" value="org.absa.verify.EmployeeTest" />
+      <option name="METHOD_NAME" value="testParallel" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -72,6 +96,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="EmployeesRunner.testEmployees" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="karateAPITesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.absa.verify.employee.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.absa.verify.employee" />
+      <option name="MAIN_CLASS_NAME" value="org.absa.verify.employee.EmployeesRunner" />
+      <option name="METHOD_NAME" value="testEmployees" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Employee.feature: Employee.feature" type="karate">
       <option name="karateSearchPaths">
         <list>
@@ -83,6 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.EmployeeTest.testParallel" />
+        <item itemvalue="JUnit.EmployeesRunner.testEmployees" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
