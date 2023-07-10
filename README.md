@@ -5,6 +5,7 @@ Clone the project.
 Go to master branch.
 Do clean install. all dependencies will be installed.
 (Suggested IDE = Intellij)
+Java 11 install
 You can replace the url as I have created a dummy endpoint locally.
 paths can also be updated in the testData file.
 Status are also stored in the testData.
